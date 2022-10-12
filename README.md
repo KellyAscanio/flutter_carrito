@@ -1,16 +1,22 @@
-# carrito_compras
+Kelly Johana Ascanio Rodríguez
 
-A new Flutter project.
+1. Vista principal de mi carrito de compras , el menú no es funcional por el momento
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/101758695/195427916-a8b636ce-37e2-483c-a2d1-abd32c94c33f.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+2. Al precionar el icono carrito que inicalmente estaba en verde pasa a ser rojo y podemos observar en la parte superior el conteo de productos seleccionados
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/101758695/195428016-3d09dbfa-1ff8-45f4-860b-93dd36e3b4f5.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+3. Vor a la pagina Carrito y me encuentro con los productos selccionados, con sus datos y una boton de incremento y decremento por si se desea comprar más de una, tambén me genera el total a pagar por los productos seleccionados y con la cantidad elegida.
+
+![image](https://user-images.githubusercontent.com/101758695/195428273-9bc7a7d1-1040-4bf7-84d2-4b55a360cd39.png)
+
+
+4. Podemos ver la funcionalidad del boton de incremento y decremento y el total
+
+![image](https://user-images.githubusercontent.com/101758695/195428919-3f103f7f-849c-403c-bac9-e75a6328aa04.png)
+
+
